@@ -45,7 +45,7 @@ function scoreAnswers (){
     }
 
 //ANSWER2
-    if (answer2 == "question1") {
+    if (answer2 == "B") {
         numberOfCorrectAnswers++;
     }
     else{
@@ -53,7 +53,7 @@ function scoreAnswers (){
     }
 
 //ANSWER3
-    if (answer3== "question1") {
+    if (answer3== "A") {
         numberOfCorrectAnswers++;
     }
     else{
@@ -61,7 +61,7 @@ function scoreAnswers (){
     }
 
 //ANSWER4
-    if (answer4 == "question1") {
+    if (answer4 == "C") {
         numberOfCorrectAnswers++;
     }
     else{
@@ -69,7 +69,7 @@ function scoreAnswers (){
     }
 
 //ANSWER5
-    if (answer5 == "question1") {
+    if (answer5 == "D") {
         numberOfCorrectAnswers++;
     }
     else{
